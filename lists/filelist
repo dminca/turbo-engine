@@ -1,0 +1,11 @@
+total 64
+drwxrwxr-x  5 zyr0m zyr0m  4096 mar 26 23:44 ./
+drwxrwxr-x 16 zyr0m zyr0m  4096 mar 26 14:09 ../
+-rw-rw-r--  1 zyr0m zyr0m     0 mar 26 23:44 filelist
+drwxrwxr-x  8 zyr0m zyr0m  4096 mar 26 23:43 .git/
+-rw-rw-r--  1 zyr0m zyr0m     0 mar 25 21:52 .gitignore
+-rw-rw-r--  1 zyr0m zyr0m 35141 mar 25 21:53 LICENSE
+drwxrwxr-x  2 zyr0m zyr0m  4096 mar 25 22:33 lists/
+-rwxr-xr-x  1 zyr0m zyr0m    59 mar 25 21:54 main*
+-rw-rw-r--  1 zyr0m zyr0m    92 mar 25 21:57 README.md
+drwxrwxr-x  2 zyr0m zyr0m  4096 mar 26 23:39 scripts/
