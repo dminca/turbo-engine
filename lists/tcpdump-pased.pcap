@@ -1,0 +1,10 @@
+2016-03-27 22:46:58.110084 IP router.asus.com.48988 > 239.255.255.250.1900: UDP, length 263
+2016-03-27 22:46:58.110134 IP router.asus.com.48988 > 239.255.255.250.1900: UDP, length 335
+2016-03-27 22:46:58.110401 IP router.asus.com.48988 > 239.255.255.250.1900: UDP, length 331
+2016-03-27 22:46:58.110418 IP router.asus.com.48988 > 239.255.255.250.1900: UDP, length 311
+2016-03-27 22:46:58.110734 IP router.asus.com.48988 > 239.255.255.250.1900: UDP, length 343
+2016-03-27 22:46:58.110746 IP router.asus.com.48988 > 239.255.255.250.1900: UDP, length 325
+2016-03-27 22:46:58.111054 IP router.asus.com.48988 > 239.255.255.250.1900: UDP, length 327
+2016-03-27 22:46:58.111066 IP router.asus.com.48988 > 239.255.255.250.1900: UDP, length 327
+2016-03-27 22:46:58.433521 STP 802.1d, Config, Flags [none], bridge-id 8000.1c:b7:2c:d2:b9:9c.8001, length 43
+2016-03-27 22:47:00.433520 STP 802.1d, Config, Flags [none], bridge-id 8000.1c:b7:2c:d2:b9:9c.8001, length 43
