@@ -1,4 +1,18 @@
 #!/bin/bash
 # Main runner for awk/gawk/mawk/nawk scripts
+SCRIPTS="./scripts"
+LISTS="./lists"
 
+# Filter Apache access_logs by IP, Date, Code
+access_logs ()
+{
+  $SCRIPTS/acclog.gawk $LISTS/access_log
+}
 
+# Print total MB parsed from the ls command
+fileprint ()
+{
+  $SCRIPTS/flprint.awk $LISTS/filelist
+}
+
+"$@"
